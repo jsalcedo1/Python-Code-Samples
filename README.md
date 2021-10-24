@@ -1,2 +1,2 @@
 # Python-Code-Samples
-CSS-225-0-NLU: Week 4 Activities 
+CSS-225-0-NLU: In-class Activities/Lab Lab Assignments
