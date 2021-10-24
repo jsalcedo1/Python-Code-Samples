@@ -1,2 +1,2 @@
 # Python-Code-Samples
-CSS-225-0-NLU: In-class Activities/Lab Lab Assignments
+CSS-225-0-NLU: In-class Activities/Lab Assignments
